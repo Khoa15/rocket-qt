@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Bullet.qml</file>
+        <file>Enemy.qml</file>
+    </qresource>
+</RCC>
